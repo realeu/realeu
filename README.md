@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [My Personal Website](https://github.com/realEU/realeu.github.io)
 
-- 🌱 I’m currently learning **Python, C++, TypeScript, JavaScript, Kotlin & HTML**
+- 🌱 I’m currently learning **Python, C++, TypeScript, JavaScript, Kotlin, HTML & Saas**
 
-- 👨‍💻 All of my projects are available at [zion.gq](zion.gq)
+- 👨‍💻 All of my projects are available at [zion.gq](https://zion.gq/)
 
 - 📫 How to reach me **konatadev@gmail.com**
 
