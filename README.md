@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Personal Website](https://zion.gq/)
 
-- 🌱 I’m currently learning **Python, C++, TypeScript, JavaScript, Kotlin, HTML & Saas**
+- 🌱 I’m currently learning **Python, C++, TypeScript, JavaScript, Kotlin, HTML & Sass**
 
 - 👨‍💻 All of my projects are available at [zion.gq](https://zion.gq/)
 
