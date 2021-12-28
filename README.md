@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Website](https://zion.gq/)
-
 - 🌱 I’m currently learning **Python, C++, TypeScript, JavaScript, Kotlin, HTML & Sass**
-
-- 👨‍💻 All of my projects are available at [zion.gq](https://zion.gq/)
 
 - 📫 How to reach me **deviser@tuta.io**
 
